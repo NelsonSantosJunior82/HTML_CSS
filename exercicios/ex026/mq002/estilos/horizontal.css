@@ -3,6 +3,7 @@
 /*Dispositivo horizontal (landscape)*/
 
 body{
-    background-color: red;
+    background-image: url(../imagem/cev-landscape.jpg);
+    background-position: center bottom;
 }
 
